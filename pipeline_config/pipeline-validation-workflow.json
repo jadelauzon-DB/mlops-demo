@@ -11,7 +11,7 @@
   },
   "tasks": [
     {
-      "task_key": "data_cleaning",
+      "task_key": "data_cleaningb",
       "notebook_task": {
         "notebook_path": "/Users/labuser10560523_1749500612@vocareum.com/advanced-machine-learning-operations-1.2.5/M01 - Streamlining MLOps with Databricks/1.1 Demo - Pipeline workflow notebooks/01_data_transformation/data_cleaning",
         "source": "WORKSPACE"
