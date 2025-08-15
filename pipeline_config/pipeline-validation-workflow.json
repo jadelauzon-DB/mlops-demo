@@ -1,6 +1,6 @@
 
 {
-  "name": "Demo Pipeline Validation Workflow with Conditional Execution - 2025-08-15",
+  "name": "Jade Demo Pipeline Validation Workflow with Conditional Execution - 2025-08-15",
   "email_notifications": {
     "on_failure": [
       "labuser8921875_1755276742@vocareum.com"
